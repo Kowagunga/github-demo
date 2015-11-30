@@ -1,5 +1,9 @@
-example
-- first change
-- second change
-- third change
-- fourth change
+Example
+- First change
+- Second change
+
+example of merge
+
+- Third change
+- Fourth change
+- Fifth change
